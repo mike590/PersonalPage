@@ -1,0 +1,5 @@
+Have multiple squares with rotating pictures of your headshot. One could start at the top left, facing the text, as if reading it too, then scroll down along the side of a couple of paragraphs, maybe for a whole section ("About" Section). Then next section, the text is justified to the left with a new square on the right side of headshot facing left which  scrolls down with the new section. If both squares are available at once, have the left side headshot transition to an image of looking down as you scroll down and the right side looking up as you come close to it, then transitioning to an image facing left when you start scrolling through the section.
+
+navbar that sits below jumbotron but sticks to the top of the page when you scroll down. Has the names of the sections on your page. Perhaps moves from left to right side of page, staying on opposite side of current headshot.
+
+Have single or dotted lines to separate sections, but have the background of the body stay consistent throughout. As you cross from section to section, the whole background transitions to a different color.
